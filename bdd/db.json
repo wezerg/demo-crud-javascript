@@ -1,0 +1,24 @@
+{
+  "invoices": [
+    {
+      "nom": "Manette PS5",
+      "montant": 52,
+      "id": 1
+    },
+    {
+      "nom": "Meuble Ikea",
+      "montant": -37,
+      "id": 2
+    },
+    {
+      "nom": "Casque",
+      "montant": 22,
+      "id": 3
+    },
+    {
+      "nom": "Bonbon",
+      "montant": -12,
+      "id": 4
+    }
+  ]
+}
